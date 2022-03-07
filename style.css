@@ -1,0 +1,85 @@
+.image{
+display: block;
+height: 700px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 50px;
+margin-bottom: 50px;
+width: 95%;
+}
+h1{
+text-align: center;
+font-size:50px;
+color:#E91E63;
+font-family: Jokerman;
+}
+h5
+{
+text-align: center;
+font-size: 20px;
+color: #E91E63;
+}
+.paragraph{
+font-family: Helvetica;
+ }
+ body{
+ background-color: #9E9E9E;
+ margin-left:50px;
+ margin-right:50px;
+ }
+h3{
+ color: #FF5722;
+ }
+h2{
+color: #009688;
+font-size: 25px;
+font-family: Algerian;
+text-align: center;
+}
+.desc{
+color: #FF5722;
+font-size: 30px;
+font-family: Curlz MT;
+}
+h6{
+color: #C2185B;
+font-size: 20px;
+}
+.info{
+text-align: justify;
+font-size: 25px;
+font-family: Eras Demi ITC;
+}
+.intro{
+background-color: black;
+text-align:justify;
+color: #00BCD4;
+font-family: Bookman Old Style;
+}
+.paragraph2{
+background-color: black;
+color: white;
+text-align: justify;
+padding: 15px;
+}
+
+.end {
+  position: absolute;
+  right: 20px;
+  text-align: center;
+  color: #FBC02D;
+  font-size: 20px;
+  width: 300px;
+  border: 3px dotted #E91E63;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.blog{
+color: #FFEB3B;
+margin: 30px 30px 30px 30px;
+}
+.welcome{
+text-align: center;
+font-size: 35px;
+}
